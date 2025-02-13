@@ -1,5 +1,6 @@
 site_name: Documentación del Proyecto
-site_url: https://hectortaborda.github.io/Documentacion_Proyecto/
+site_url: "https://hectortaborda.github.io/Documentacion_Proyecto/"
+site_dir: 'site'
 
 nav:
   - Inicio: index.md
